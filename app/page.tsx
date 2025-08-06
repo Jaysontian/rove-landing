@@ -36,7 +36,7 @@ export default function Home() {
             transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
             className="text-5xl font-[500] mb-6 leading-14"
           >
-            The Enterprise Browser Built for <span className={instrumentSerif.className + " text-6xl"} style={{ fontWeight: 550, fontStyle: 'italic' }}>Agents & Work</span>
+            The AI Browser Built to Automate <span className={instrumentSerif.className + " text-6xl"} style={{ fontWeight: 550, fontStyle: 'italic' }}>SaaS Workflows</span>
           </motion.h1>
           
           <motion.p 
@@ -45,7 +45,7 @@ export default function Home() {
             transition={{ duration: 0.6, delay: 0.4, ease: "easeOut" }}
             className="text-[11pt] opacity-60 mb-8 kerning-wide leading-5.5 max-w-[340px] mx-auto text-white/60"
           >
-          Maybe browser is an understatement. We're building an agent-native OS for teams that need to automate, generate applications, orchestrate legacy workflows, and enforce data security and policy – built for the future of work with AGIs.
+            E-commerce teams spend hours reconciling orders, tracking receipts, and compiling reports across tabs. Rove automates those browser-based workflows with agents that work like ops teammates — no APIs, just tell-and-run.
           </motion.p>
           
           <motion.div

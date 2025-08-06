@@ -555,14 +555,14 @@ function Home() {
                             },
                             className: "text-5xl font-[500] mb-6 leading-14",
                             children: [
-                                "The Enterprise Browser Built for ",
+                                "The AI Browser Built to Automate ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: __TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$instrument_serif_c596cec9$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].className + " text-6xl",
                                     style: {
                                         fontWeight: 550,
                                         fontStyle: 'italic'
                                     },
-                                    children: "Agents & Work"
+                                    children: "SaaS Workflows"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
                                     lineNumber: 39,
@@ -589,7 +589,7 @@ function Home() {
                                 ease: "easeOut"
                             },
                             className: "text-[11pt] opacity-60 mb-8 kerning-wide leading-5.5 max-w-[340px] mx-auto text-white/60",
-                            children: "Maybe browser is an understatement. We're building an agent-native OS for teams that need to automate, generate applications, orchestrate legacy workflows, and enforce data security and policy – built for the future of work with AGIs."
+                            children: "E-commerce teams spend hours reconciling orders, tracking receipts, and compiling reports across tabs. Rove automates those browser-based workflows with agents that work like ops teammates — no APIs, just tell-and-run."
                         }, void 0, false, {
                             fileName: "[project]/app/page.tsx",
                             lineNumber: 42,
